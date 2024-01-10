@@ -47,6 +47,12 @@ Clone the project
   git clone https://github.com/Faizan7012/quickreel-assignment.git
 ```
 
+Change the directory
+
+```bash or zsh
+  cd assignment
+```
+
 Install dependencies
 
 ```bash or zsh
