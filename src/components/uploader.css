@@ -1,0 +1,39 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px dashed #1475cf;
+    height: 300px;
+    width: 500px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.uplaodBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    color: #1475cf;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+h2{
+    font-size: 40px;
+    color: #1475cf;
+    text-align: center;
+}
+
+
+@media screen and (max-width:500px) {
+   form{
+     width: 280px;
+     height: 200px;
+     margin: auto;
+   }
+   h2{
+    font-size: 20px;
+   }
+}
