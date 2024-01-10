@@ -44,13 +44,7 @@
 Clone the project
 
 ```bash or zsh
-  git clone https://github.com/Faizan7012/face-detector-app.git
-```
-
-Go to the project directory
-
-```bash or zsh
-  cd face-detector
+  git clone https://github.com/Faizan7012/quickreel-assignment.git
 ```
 
 Install dependencies
